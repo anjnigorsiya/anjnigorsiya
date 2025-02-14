@@ -1,4 +1,3 @@
-:
 
 👋 Hey, I’m Anjni!
 🚀 MSc Physics Student | Physics Explorer | Code Enthusiast
