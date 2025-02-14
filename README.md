@@ -5,10 +5,10 @@
 
 ✨ Fascinated by:
 
-Plasma Physics ⚡
-Quantum Mechanics 🧩
-Statistical Physics 📊
-Atomic & Nuclear Physics 💥
+- Plasma Physics ⚡
+- Quantum Mechanics 🧩
+- Statistical Physics 📊
+- Atomic & Nuclear Physics 💥
 💻 I code in Python, Mathematica, and MATLAB.
 📐 Optical simulations with Zemax OpticStudio.
 📚 I write in LaTeX (because science deserves to look good).
